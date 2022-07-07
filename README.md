@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Blink Shell](https://blink.sh)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Blink Shell](https://blink.sh).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/blink](https://draculatheme.com/blink).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/blink/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![yuys13](https://avatars.githubusercontent.com/u/29335192?v=3&s=70)](https://github.com/yuys13) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [yuys13](https://github.com/yuys13)                                               |
 
 ## Community
 
