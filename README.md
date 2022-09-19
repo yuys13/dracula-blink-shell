@@ -1,5 +1,10 @@
 # Dracula for [Blink Shell](https://blink.sh)
 
+## Caution!
+
+Please use [dracula/blink-shell](https://github.com/dracula/blink-shell).
+This project has been archived.
+
 > A dark theme for [Blink Shell](https://blink.sh).
 
 ![Screenshot](./screenshot.png)
